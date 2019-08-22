@@ -1,5 +1,5 @@
 
-Запросы  выполнялись в SQL postgres
+Запросы  выполнялись в PostgreSQL
 -- 1
 SELECT EMPID, EMPNAME
 FROM EMP
